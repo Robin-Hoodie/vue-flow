@@ -196,10 +196,6 @@ export interface FlowProps {
 
   autoPanOnConnect?: boolean
   autoPanOnNodeDrag?: boolean
-
-  __experimentalFeatures?: {
-    nestedFlow?: boolean
-  }
 }
 
 // Todo: Remove in next major version

@@ -114,12 +114,7 @@ export function useState(): State {
 
     disableKeyboardA11y: false,
     ariaLiveMessage: '',
-
-    __experimentalFeatures: {
-      nestedFlow: false,
-    },
-  }
-}
+}}
 
 // these options will be set using the appropriate methods
 export const storeOptionsToSkip: (keyof Partial<FlowOptions & Omit<State, 'nodes' | 'edges' | 'modelValue'>>)[] = [
