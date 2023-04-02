@@ -114,7 +114,8 @@ export function useState(): State {
 
     disableKeyboardA11y: false,
     ariaLiveMessage: '',
-}}
+  }
+}
 
 // these options will be set using the appropriate methods
 export const storeOptionsToSkip: (keyof Partial<FlowOptions & Omit<State, 'nodes' | 'edges' | 'modelValue'>>)[] = [
