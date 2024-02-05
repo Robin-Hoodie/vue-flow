@@ -1,5 +1,15 @@
 # @vue-flow/core
 
+## 2.0.0-next.0
+
+### Major Changes
+
+- [#717](https://github.com/bcakmakoglu/vue-flow/pull/717) [`47ea42b`](https://github.com/bcakmakoglu/vue-flow/commit/47ea42b7bde65c5ac7bacbb402eba2d22b0a539a) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Remove experimental features flag
+
+- [#717](https://github.com/bcakmakoglu/vue-flow/pull/717) [`6310cef`](https://github.com/bcakmakoglu/vue-flow/commit/6310cefcd8df61055314aa54d8bffd49b56cce16) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Use `GraphNode` or `GraphEdge` as optional generic types for `findNode` or `findEdge` actions
+
+- [#717](https://github.com/bcakmakoglu/vue-flow/pull/717) [`a678423`](https://github.com/bcakmakoglu/vue-flow/commit/a67842339a607987922cd6a0630ec878ff5a739b) Thanks [@bcakmakoglu](https://github.com/bcakmakoglu)! - Update handle styles and avoid using fixed pixel positions to offset handle position and instead use transform to align handles
+
 ## 1.31.0
 
 ### Minor Changes

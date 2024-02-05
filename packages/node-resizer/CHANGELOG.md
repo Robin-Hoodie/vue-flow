@@ -1,5 +1,12 @@
 # @vue-flow/node-resizer
 
+## 2.0.0-next.0
+
+### Patch Changes
+
+- Updated dependencies [[`47ea42b`](https://github.com/bcakmakoglu/vue-flow/commit/47ea42b7bde65c5ac7bacbb402eba2d22b0a539a), [`6310cef`](https://github.com/bcakmakoglu/vue-flow/commit/6310cefcd8df61055314aa54d8bffd49b56cce16), [`a678423`](https://github.com/bcakmakoglu/vue-flow/commit/a67842339a607987922cd6a0630ec878ff5a739b)]:
+  - @vue-flow/core@2.0.0-next.0
+
 ## 1.3.6
 
 ### Patch Changes
